@@ -9,6 +9,7 @@
     border: solid 4px red;
     height: 60px;
     width: 100vw;
+    padding-left: 1rem;
     display: flex;
     justify-content: flex-start;
     align-items: center;
